@@ -2,13 +2,13 @@
   "a": "value_a",
   "b": "value_b",
   "array": [ {
-    "array_a": "value_array_a"
-    "common_property: true
+    "array_a": "value_array_a",
+    "common_property": true
   }, {
-    "array_b": "value_array_b"
-    "common_property: true
+    "array_b": "value_array_b",
+    "common_property": true
   }, {
-    "array_c": "value_array_c"
-    "common_property: true
+    "array_c": "value_array_c",
+    "common_property": true
   } ]
 }
