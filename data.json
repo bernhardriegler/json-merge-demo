@@ -1,6 +1,7 @@
 {
   "a": "value_a",
   "b": "value_b",
+  "c": "value_c",
   "array": [ {
     "array_a": "value_array_a",
     "common_property": true
@@ -9,6 +10,9 @@
     "common_property": true
   }, {
     "array_c": "value_array_c",
+    "common_property": true
+  }, {
+    "array_d": "value_array_d",
     "common_property": true
   } ]
 }
