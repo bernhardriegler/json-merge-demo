@@ -1,6 +1,8 @@
 {
   "a": "value_a",
   "b": "value_b",
+  "new_0_from_patch-1": "value",
+  "new_1_from_patch-1": "value",
   "array": [ {
     "array_a": "value_array_a",
     "common_property": true
@@ -9,6 +11,12 @@
     "common_property": true
   }, {
     "array_c": "value_array_c",
+    "common_property": true
+  }, {
+    "array_new_0_from_patch-1": "value_array",
+    "common_property": true
+  }, {
+    "array_new_1_from_patch-1": "value_array",
     "common_property": true
   } ]
 }
